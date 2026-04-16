@@ -1,4 +1,3 @@
-<img width="1197" height="48" alt="image" src="https://github.com/user-attachments/assets/3f632427-41a3-4164-9937-737f82c42702" /><img width="540" height="159" alt="image" src="https://github.com/user-attachments/assets/b828c750-b0b3-413b-9d8d-6ea421e4ab69" />
 
 Prueba de gramatica con entrada de texto
 - entrada: if E then if E then S else S
