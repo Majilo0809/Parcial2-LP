@@ -1,3 +1,5 @@
+## Gamatica ambigua
+<img width="506" height="463" alt="image" src="https://github.com/user-attachments/assets/65829f09-9b36-4825-998b-bc5ea44f5962" />
 
 Prueba de gramatica con entrada de texto
 - entrada: if E then if E then S else S
